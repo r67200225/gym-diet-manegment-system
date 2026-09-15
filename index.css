@@ -1,0 +1,40 @@
+.join{
+    background-color: green;color: white;border: none;border-radius: 15px;width: 100px;height: 35px;
+    cursor: pointer;
+}
+.input{
+    margin-bottom: 10px;
+}
+.submit{
+    border: solid 1px white;border-radius: 13px;cursor: pointer;width: 100px;height: 35px;
+}
+.submit:hover{background-color: blue;}
+.inputs{
+    width: 25%;
+    height: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;border: solid 1px;border-radius: 10px;
+}
+.register{
+    background-color: grey;width: 100px;height: 35px;cursor: pointer;border: none;border-radius: 15px;
+}
+.register:hover{background-color: gold;}
+.maindiv{
+    border: solid 1px;
+    display: flex;
+    flex-direction: row;
+    justify-self: flex-start;
+    justify-items: center;
+}
+.div1{border: solid 1px;}
+.div2{border: solid 1px;}
+.div3{border: solid 1px;}
+
+.button{
+    background-color: blue;color: white;width: 100px;height: 35px;cursor: pointer;border: none;
+    border-radius: 10px;
+}
+.buttons{
+    background-color:chartreuse;color: white;width: 100px;height: 35px;cursor: pointer;border: none;
+    border-radius: 10px;
+}
